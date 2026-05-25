@@ -61,7 +61,6 @@ The sessions themselves won't make you feel better on their own — **using the 
 This is a personal working copy of the NHS Mersey Care Talking Therapies course manual, reformatted as GitHub Markdown with added functionality:
 
 - Jump-to navigation within each session
-- Collapsible theory sections to keep things scannable
 - Fillable markdown tables for all worksheets and diaries
 - Task checklists for all exercises
 - Callout blocks for key points and warnings
