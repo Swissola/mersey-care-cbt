@@ -23,8 +23,6 @@
 
 ### When Worry Becomes a Problem
 
-<details open>
-<summary>Understanding problematic worry — click to expand</summary>
 
 Worrying is something all human beings experience. It becomes a problem when it is:
 
@@ -41,14 +39,11 @@ Worrying is something all human beings experience. It becomes a problem when it 
 - Problems concentrating or getting things done
 - Avoidance of triggers that increase the worry
 
-</details>
 
 ---
 
 ### Worry Time Technique
 
-<details open>
-<summary>How to contain hypothetical worries — click to expand</summary>
 
 This technique works by containing worry to a set period, rather than letting it run throughout the day.
 
@@ -68,16 +63,13 @@ This technique works by containing worry to a set period, rather than letting it
 - If a worry no longer seems relevant — no further action needed
 - If a worry still needs attention, spend no more than your set time on it
 
-> 💡 You will often find that many of your postponed worries feel much less significant — or have resolved themselves — by the time worry time arrives.
+> 💡 *You will often find that many of your postponed worries feel much less significant — or have resolved themselves — by the time worry time arrives.*
 
-</details>
 
 ---
 
 ### Grounding Yourself in the Present
 
-<details open>
-<summary>Techniques to return to the here and now — click to expand</summary>
 
 Anxiety focuses the mind on a future that hasn't happened. Grounding techniques bring you back to the present moment in your body and your surroundings.
 
@@ -95,7 +87,6 @@ Anxiety focuses the mind on a future that hasn't happened. Grounding techniques 
 
 - **Tend to plants or soil** — physical contact with plants and earth is an excellent natural grounder.
 
-</details>
 
 ---
 
@@ -122,8 +113,6 @@ Anxiety focuses the mind on a future that hasn't happened. Grounding techniques 
 
 ### The 7-Step Problem Solving Framework
 
-<details open>
-<summary>The full framework explained — click to expand</summary>
 
 Problems are part of life. Anxiety and depression can both cause and be caused by unresolved problems. This 7-step framework gives you a structured way to work through them.
 
@@ -148,7 +137,6 @@ Put your plan into action. Can you do it now? If not, schedule it and let the wo
 **Step 7 — Review progress**
 Praise yourself for the effort regardless of outcome. Record what happened. If it didn't work, what did you learn? Is there another solution from Step 2 worth trying?
 
-</details>
 
 ---
 
@@ -288,12 +276,9 @@ Use this as an ongoing log for smaller problems you've already dealt with, or to
 
 ### Progressive Muscle Relaxation (PMR)
 
-<details open>
-<summary>How PMR works — click to expand</summary>
 
 Progressive Muscle Relaxation is a technique for achieving deep physical relaxation by systematically releasing tension from each part of the body in turn. It is particularly effective for the muscle tension that accompanies chronic worry and anxiety.
 
-</details>
 
 #### PMR Script
 
@@ -317,7 +302,7 @@ Progressive Muscle Relaxation is a technique for achieving deep physical relaxat
 
 - [ ] When ready, count back from 5 to 1. Open your eyes. Wiggle fingers and toes, breathe deeply and stretch. Pause before rising.
 
-> 💡 With regular practice (aim for daily), your body learns to reach this state more quickly and more deeply.
+> 💡 *With regular practice (aim for daily), your body learns to reach this state more quickly and more deeply.*
 
 ---
 

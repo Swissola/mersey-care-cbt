@@ -22,8 +22,6 @@
 
 ### What is Exposure Therapy?
 
-<details open>
-<summary>The most powerful technique for overcoming avoidance — click to expand</summary>
 
 Exposure therapy is the single most evidence-based technique for overcoming anxiety-driven avoidance. It works by doing the opposite of avoiding feared situations — deliberately entering them, staying long enough for anxiety to naturally subside, and learning through direct experience that:
 
@@ -32,16 +30,13 @@ Exposure therapy is the single most evidence-based technique for overcoming anxi
 
 Over repeated exposures, the brain updates its threat assessment. The feared situation becomes less and less anxiety-provoking — this process is called **habituation**.
 
-> ⚠️ **Important:** This is not about going into genuinely dangerous situations or returning to places where you were harmed. It is about re-engaging with ordinary, everyday situations that you have become fearful of due to anxiety — such as shops, public transport, social events, or open spaces.
+> ⚠️ ***Important:** This is not about going into genuinely dangerous situations or returning to places where you were harmed. It is about re-engaging with ordinary, everyday situations that you have become fearful of due to anxiety — such as shops, public transport, social events, or open spaces.*
 
-</details>
 
 ---
 
 ### The Four Principles of Graded Exposure
 
-<details open>
-<summary>How to do exposure correctly — click to expand</summary>
 
 For exposure to work, it must meet four conditions:
 
@@ -57,14 +52,11 @@ A single exposure is rarely enough. Repeat the same level of exposure until your
 **4. Without safety behaviours**
 Safety behaviours (see below) must be dropped during exposure. Without doing so, you never learn that the situation is actually safe — the safety behaviour gets the credit, not your own coping ability.
 
-</details>
 
 ---
 
 ### Safety Behaviours
 
-<details open>
-<summary>What safety behaviours are and why they maintain anxiety — click to expand</summary>
 
 Safety behaviours are things people do to feel less anxious in feared situations. They provide short-term relief, which is why people continue using them. But they have two significant problems:
 
@@ -79,9 +71,8 @@ Safety behaviours are things people do to feel less anxious in feared situations
 | Going to the shops | Only going with another person | *"I'd have panicked if I'd gone alone"* |
 | Social situations | Repeating a phrase in your head | *"I only managed because of the phrase"* |
 
-> 💡 By continuing to rely on safety behaviours, you never have the opportunity to discover that you would have been fine without them.
+> 💡 *By continuing to rely on safety behaviours, you never have the opportunity to discover that you would have been fine without them.*
 
-</details>
 
 ---
 
@@ -110,8 +101,6 @@ Safety behaviours are things people do to feel less anxious in feared situations
 
 ### Building an Anxiety Hierarchy
 
-<details open>
-<summary>How to construct a step-by-step hierarchy — click to expand</summary>
 
 Each feared situation needs to be broken down into graduated levels — from the least to the most anxiety-provoking. This gives you a ladder to climb, one rung at a time.
 
@@ -130,7 +119,6 @@ Each feared situation needs to be broken down into graduated levels — from the
 
 Start at Level 1. Only move up when anxiety at the current level no longer exceeds 50% at the start of the exposure.
 
-</details>
 
 ---
 
@@ -182,7 +170,7 @@ Start at Level 1. Only move up when anxiety at the current level no longer excee
 | 3 | Sat | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
 | 3 | Sun | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
 
-> 💡 **Habituation signal:** When your anxiety at the *start* of an exposure at a given level no longer exceeds 50, you have habituated to that level. Move to the next step on your hierarchy.
+> 💡 ***Habituation signal:** When your anxiety at the *start* of an exposure at a given level no longer exceeds 50, you have habituated to that level. Move to the next step on your hierarchy.*
 
 ---
 

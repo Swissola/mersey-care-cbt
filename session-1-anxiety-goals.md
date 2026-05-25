@@ -26,8 +26,6 @@
 
 ### What is Anxiety?
 
-<details open>
-<summary>About anxiety — click to expand</summary>
 
 About one in six people consult their GP because they are feeling anxious. Anxiety is a normal response to both internal events (thoughts or feelings) and external events (situations or perceived threats).
 
@@ -47,14 +45,11 @@ Anxiety becomes a problem when it:
 - ✅ Anxiety **is** a necessary part of normal everyday life, common to every human being
 - ✅ Anxiety **is** something that can be managed and coped with rather than always being overwhelming
 
-</details>
 
 ---
 
 ### The Fight or Flight Response
 
-<details open>
-<summary>How the fight or flight response works — click to expand</summary>
 
 When faced with a perceived threat, the **amygdala** — the brain's alarm system — triggers a release of adrenaline into the bloodstream, causing rapid physical changes to prepare the body to run or fight. This is an automatic survival mechanism humans have carried for thousands of years.
 
@@ -70,16 +65,13 @@ The problem occurs when this response is triggered when **no actual danger is pr
 - Need to use the toilet
 - Poor sleep
 
-> 💡 All of these symptoms are your body doing exactly what it was designed to do. They are uncomfortable but not dangerous.
+> 💡 *All of these symptoms are your body doing exactly what it was designed to do. They are uncomfortable but not dangerous.*
 
-</details>
 
 ---
 
 ### What is Depression?
 
-<details open>
-<summary>Understanding depression — click to expand</summary>
 
 Depression is different from normal sadness. With depression, feelings of hopelessness, worthlessness or exhaustion don't just go away — they can last for months and make everyday life extremely difficult.
 
@@ -102,16 +94,13 @@ Depression is different from normal sadness. With depression, feelings of hopele
 - Withdrawing from hobbies
 - Doing less because it feels too much effort
 
-> 💡 Depression is an illness — not a choice, not a weakness, and not something you can simply "snap out of." It responds well to psychological therapies like CBT.
+> 💡 *Depression is an illness — not a choice, not a weakness, and not something you can simply "snap out of." It responds well to psychological therapies like CBT.*
 
-</details>
 
 ---
 
 ### The 5 Areas Model
 
-<details open>
-<summary>How symptoms connect to each other — click to expand</summary>
 
 All symptom types — thoughts, feelings, physical sensations, and behaviours — influence one another. A change in one area tends to affect the others. This is why targeting even one area can start to create positive change across all of them.
 
@@ -135,7 +124,6 @@ All symptom types — thoughts, feelings, physical sensations, and behaviours �
 | **Feelings** | Sadness, guilt |
 | **Behaviour** | Do less; can't see the point in anything |
 
-</details>
 
 ---
 
@@ -213,8 +201,6 @@ All symptom types — thoughts, feelings, physical sensations, and behaviours �
 
 ### Why Set Goals?
 
-<details open>
-<summary>The case for goal-setting — click to expand</summary>
 
 Depression and anxiety throw us off course. Goals help because they:
 
@@ -233,14 +219,11 @@ Before writing goals, spend a few minutes with these questions:
 - What would life be like if things were different?
 - What would you be able to do if things changed?
 
-</details>
 
 ---
 
 ### SMART Goals
 
-<details open>
-<summary>How to write a goal that works — click to expand</summary>
 
 Goals should be **SMART** to be effective:
 
@@ -254,7 +237,6 @@ Goals should be **SMART** to be effective:
 
 Once you have a SMART goal, break it into small, manageable steps. Each step completed takes you closer to the overall goal.
 
-</details>
 
 ---
 

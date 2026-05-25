@@ -25,8 +25,6 @@
 
 ### Why Activity Matters
 
-<details open>
-<summary>The link between activity and mood — click to expand</summary>
 
 When people feel depressed they often feel physically unwell, have negative thoughts, and experience a lack of energy and motivation. As a result, they do less. The trouble is, doing less makes people feel worse — creating a self-reinforcing cycle:
 
@@ -42,14 +40,11 @@ A helpful way to think about energy when you are depressed is Spoon Theory. Imag
 
 This is why pacing matters. It is not laziness — it is managing a genuinely limited resource. The goal of behavioural activation is to gradually increase the number of spoons you start with, by rebuilding activity slowly and consistently.
 
-</details>
 
 ---
 
 ### The Problem with Avoidance
 
-<details open>
-<summary>Why avoidance keeps you stuck — click to expand</summary>
 
 Avoidance is understandable — it requires little effort and the short-term relief is immediate. But in the long term, avoidance:
 
@@ -66,7 +61,6 @@ Avoidance is understandable — it requires little effort and the short-term rel
 | **Pleasurable** | Going out with friends, walking, gardening, reading, listening to music |
 | **Necessary** | Attending appointments, food shopping, replying to messages or emails, paying bills |
 
-</details>
 
 ---
 
@@ -120,14 +114,12 @@ Your ranking should also reflect your personal circumstances — your physical a
 | | &nbsp;<br> | &nbsp;<br> | &nbsp;<br> |
 | | &nbsp;<br> | &nbsp;<br> | &nbsp;<br> |
 
-> ⚠️ Start with easy activities and build up gradually. Depression has likely reduced your baseline — pacing is important. You wouldn't run a marathon without training first.
+> ⚠️ *Start with easy activities and build up gradually. Depression has likely reduced your baseline — pacing is important. You wouldn't run a marathon without training first.*
 
 ---
 
 ### Finding Your Values
 
-<details open>
-<summary>What values are and why they matter — click to expand</summary>
 
 Values are the things that are truly important to you in life. They are not goals to be ticked off, and they are not a list of "shoulds" from other people. They come from your own sense of what enriches your life and gives you a sense of self-respect.
 
@@ -140,7 +132,6 @@ Values are like compass directions — they give purpose and meaning, and help y
 - **What matters** — What is important to me? Being a good parent? Earning a living? Faith? Something else?
 - **Legacy** — What do I want to be remembered for?
 
-</details>
 
 ---
 
@@ -181,7 +172,7 @@ Values are like compass directions — they give purpose and meaning, and help y
 | Evening | | | | | | | |
 | *A / E* | | | | | | | |
 
-> 💡 For large tasks, break them into smaller parts. "Clean house" becomes: vacuum living room, vacuum kitchen, wipe surfaces, empty bins, wash up. This is not weakness — it is sensible. Every journey is just a series of single steps.
+> 💡 *For large tasks, break them into smaller parts. "Clean house" becomes: vacuum living room, vacuum kitchen, wipe surfaces, empty bins, wash up. This is not weakness — it is sensible. Every journey is just a series of single steps.*
 
 ---
 
@@ -189,8 +180,6 @@ Values are like compass directions — they give purpose and meaning, and help y
 
 ### Why Relaxation Helps
 
-<details open>
-<summary>The case for learning to relax — click to expand</summary>
 
 When tense, you experience uncomfortable physical symptoms — headaches, backaches, and so on. These physical sensations add to your mental worry. Relaxation works by:
 
@@ -199,14 +188,11 @@ When tense, you experience uncomfortable physical symptoms — headaches, backac
 - Improving your capacity to cope with daily stresses
 - Improving quality of life over time
 
-</details>
 
 ---
 
 ### Breathing Techniques
 
-<details open>
-<summary>How to breathe correctly — click to expand</summary>
 
 **Test your breathing first:**
 
@@ -216,7 +202,6 @@ When tense, you experience uncomfortable physical symptoms — headaches, backac
 
 If the hand on your **chest** moves more, you are not breathing diaphragmatically. Correct breathing has your stomach moving slightly more than your chest.
 
-</details>
 
 #### Diaphragmatic Breathing
 
@@ -263,7 +248,7 @@ If the hand on your **chest** moves more, you are not breathing diaphragmaticall
 - [ ] Hold for a count of four
 - [ ] Repeat four times
 
-> 💡 Visualise drawing the four sides of a box as you go — up as you breathe in, across as you hold, down as you breathe out, across as you hold again. This gives your mind something to focus on and helps interrupt the anxiety response.
+> 💡 *Visualise drawing the four sides of a box as you go — up as you breathe in, across as you hold, down as you breathe out, across as you hold again. This gives your mind something to focus on and helps interrupt the anxiety response.*
 
 ---
 

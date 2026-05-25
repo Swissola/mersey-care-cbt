@@ -26,8 +26,6 @@
 
 ### Negative Thinking Styles
 
-<details open>
-<summary>Common unhelpful thinking patterns — click to expand</summary>
 
 Everyone has automatic thinking styles — mental shortcuts the brain uses as part of its "safety first" approach. The problem is that these shortcuts can lead to unhelpful conclusions that make anxiety and depression worse.
 
@@ -44,14 +42,11 @@ Everyone has automatic thinking styles — mental shortcuts the brain uses as pa
 | **Jumping to conclusions** | Assuming someone is reacting negatively, or predicting bad outcomes | *"She didn't smile at me today — I must have done something wrong."* |
 | **Should statements** | Using "should" and "ought" as motivation, leading to guilt when not met | *"I should have finished everything I planned to do by now."* |
 
-</details>
 
 ---
 
 ### Why Challenge Your Thoughts?
 
-<details open>
-<summary>The reasoning behind thought challenging — click to expand</summary>
 
 In the example below, the **situation** is identical. What differs is the **thought** — and that single difference changes everything that follows.
 
@@ -62,14 +57,11 @@ In the example below, the **situation** is identical. What differs is the **thou
 
 If we are able to think about our thoughts more rationally — using evidence rather than automatic shortcuts — we can directly change how we feel and behave.
 
-</details>
 
 ---
 
 ### The 4-Step Thought Challenging Process
 
-<details open>
-<summary>How to challenge a thought — click to expand</summary>
 
 **Step 1 — Notice and label**
 Pause and identify the thought. What is the situation? Where are you? Who are you with? How are you feeling because of this thought?
@@ -83,7 +75,6 @@ Review the original thought in light of the evidence. Can it be reframed into a 
 **Step 4 — Notice the change**
 How do you feel now, thinking the more balanced thought?
 
-</details>
 
 ---
 
@@ -125,8 +116,6 @@ How do you feel now, thinking the more balanced thought?
 
 ### Sleep Stages
 
-<details open>
-<summary>Understanding the sleep cycle — click to expand</summary>
 
 During sleep, the body cycles through distinct stages. Getting good quality sleep means allowing the body to move through all of them.
 
@@ -137,14 +126,11 @@ During sleep, the body cycles through distinct stages. Getting good quality slee
 | **Stages 3 & 4** | Deep sleep | Takes around 30 minutes to reach the deepest point; most physically restorative |
 | **Stage 5** | REM sleep | Rapid Eye Movement — where dreaming happens; important for emotional processing |
 
-</details>
 
 ---
 
 ### 5 Bad Habits of Sleep
 
-<details open>
-<summary>Common sleep disruptors — click to expand</summary>
 
 Research identifies five key areas that commonly disrupt sleep. Addressing these first — before trying more complex interventions — is the recommended starting point.
 
@@ -171,14 +157,11 @@ Research identifies five key areas that commonly disrupt sleep. Addressing these
 - Exercise during the day helps with sleep at night by releasing stress and worry
 - However, avoid vigorous exercise within 2 hours of bed — the endorphin release is energising
 
-</details>
 
 ---
 
 ### Bedroom Factors
 
-<details open>
-<summary>Environment and sleep quality — click to expand</summary>
 
 The environment in which you sleep has a significant impact on sleep quality. Consider these four factors:
 
@@ -201,14 +184,11 @@ The environment in which you sleep has a significant impact on sleep quality. Co
 - Rooms below 12°C are associated with emotional and broken sleep
 - Find what works for you within this range
 
-</details>
 
 ---
 
 ### 5 Good Habits of Sleep
 
-<details open>
-<summary>Building a healthy sleep routine — click to expand</summary>
 
 **1. Bedtime routine**
 Around an hour before bed, wind down with something enjoyable and calming — but do this in a room other than the bedroom, to maintain the association between bedroom and sleep.
@@ -225,14 +205,11 @@ There is a difference between being *tired* (exhausted) and *sleepy* (ready to s
 **5. The 20-minute rule**
 If you have not fallen asleep after about 20 minutes, get up. Go to another room. Do something quiet. Only return to bed when you feel sleepy again.
 
-</details>
 
 ---
 
 ### Sleep Retraining
 
-<details open>
-<summary>A hard reset for persistent insomnia — click to expand</summary>
 
 If good habits alone are not enough, sleep retraining works by rebuilding the body's natural sleep drive. It is the equivalent of a hard reset.
 
@@ -244,16 +221,13 @@ If good habits alone are not enough, sleep retraining works by rebuilding the bo
 
 3. **Get up at your normal time regardless** — no matter how many times you were up in the night. Do not nap during the day. Let sleep pressure build so the following night is easier.
 
-> ⚠️ This process can feel difficult at first and may involve a few difficult nights. This is normal and expected. The cumulative sleep pressure means improvement typically follows within a week or two.
+> ⚠️ *This process can feel difficult at first and may involve a few difficult nights. This is normal and expected. The cumulative sleep pressure means improvement typically follows within a week or two.*
 
-</details>
 
 ---
 
 ### Coping Strategies for Sleep
 
-<details open>
-<summary>Techniques to help a restless mind — click to expand</summary>
 
 **Safe Place Imagery**
 Create a mental story about somewhere you feel completely safe, happy, and at ease. It can be a real place, a remembered holiday, or somewhere entirely imagined. Build it in detail — what you see, hear, feel, smell.
@@ -264,7 +238,6 @@ Set aside 20 minutes in the evening to write down anything you need to remember 
 **Thought Blocking**
 Choose a single neutral word (traditionally "the") and silently mouth it repeatedly for a few minutes. This aims to crowd out racing thoughts and reduce the mental activity that prevents sleep.
 
-</details>
 
 ---
 

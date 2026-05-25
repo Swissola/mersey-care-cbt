@@ -23,8 +23,6 @@
 
 ### Early Warning Signs
 
-<details open>
-<summary>How to spot the early signs before they escalate — click to expand</summary>
 
 Remaining well after a course of CBT is not about never struggling again — it is about recognising early signs quickly and responding before things escalate.
 
@@ -40,7 +38,6 @@ Ask yourself:
 - What do I start to do (or stop doing) behaviourally?
 - What emotions tend to show up first?
 
-</details>
 
 ---
 
@@ -170,8 +167,6 @@ Ask yourself:
 
 ### Healthy Lifestyle
 
-<details open>
-<summary>Everyday factors that support wellbeing — click to expand</summary>
 
 Several daily habits have good evidence for supporting mental health. These are not a replacement for therapy — but they complement it meaningfully.
 
@@ -197,14 +192,11 @@ Keeping thoughts and feelings entirely to yourself creates internal pressure. Sh
 **Relationships**
 Friendships and supportive relationships provide a buffer against anxiety and depression. They need to be maintained — and where there is a problem in a relationship, addressing it sooner rather than later is almost always better.
 
-</details>
 
 ---
 
 ### Coping Statements
 
-<details open>
-<summary>Practising helpful self-talk — click to expand</summary>
 
 Coping statements are short phrases that interrupt anxious thoughts and replace them with more realistic ones. With enough practice, they become automatic.
 
@@ -224,7 +216,6 @@ Coping statements are short phrases that interrupt anxious thoughts and replace 
 - "I can focus on what I'm doing even while feeling anxious. If I stay focused, the anxiety will reduce."
 - "I feel overwhelmed, but I'm not going to give in. I'll keep going and focus away from the problem."
 
-</details>
 
 ---
 
@@ -254,8 +245,6 @@ Coping statements are short phrases that interrupt anxious thoughts and replace 
 
 ### Keys to Success
 
-<details open>
-<summary>Reminders for the road ahead — click to expand</summary>
 
 - **Be patient.** Change takes time. CBT skills deepen with practice, not overnight.
 - **Take small, gradual steps.** Gradual, consistent progress is more sustainable than sudden effort.
@@ -263,7 +252,6 @@ Coping statements are short phrases that interrupt anxious thoughts and replace 
 - **Setbacks are part of recovery.** They are not failure — they are information. Use them.
 - **The past does not equal the future.** Previous patterns can be changed with consistent practice.
 
-</details>
 
 ---
 
@@ -282,7 +270,7 @@ Coping statements are short phrases that interrupt anxious thoughts and replace 
 
 You have completed the Skills for Wellbeing course. The techniques in this manual are tools for life — they become more effective the more you use them. Keep this document as a reference and return to any section whenever you need it.
 
-> 💡 If you feel you need further support, speak to your GP or contact NHS Talking Therapies St Helens on **01744 415 650**. You can also re-refer yourself to the service at any time.
+> 💡 *If you feel you need further support, speak to your GP or contact NHS Talking Therapies St Helens on **01744 415 650**. You can also re-refer yourself to the service at any time.*
 
 ---
 
