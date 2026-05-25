@@ -23,7 +23,6 @@
 
 ### Early Warning Signs
 
-
 Remaining well after a course of CBT is not about never struggling again — it is about recognising early signs quickly and responding before things escalate.
 
 Early warning signs are subtle changes that can easily go unnoticed. They do not mean you are severely depressed or anxious again — they are a signal that things have started to drift, and that it is time to act.
@@ -37,7 +36,6 @@ Ask yourself:
 - What thoughts tend to appear early on?
 - What do I start to do (or stop doing) behaviourally?
 - What emotions tend to show up first?
-
 
 ---
 
@@ -167,7 +165,6 @@ Ask yourself:
 
 ### Healthy Lifestyle
 
-
 Several daily habits have good evidence for supporting mental health. These are not a replacement for therapy — but they complement it meaningfully.
 
 **Diet**
@@ -192,11 +189,9 @@ Keeping thoughts and feelings entirely to yourself creates internal pressure. Sh
 **Relationships**
 Friendships and supportive relationships provide a buffer against anxiety and depression. They need to be maintained — and where there is a problem in a relationship, addressing it sooner rather than later is almost always better.
 
-
 ---
 
 ### Coping Statements
-
 
 Coping statements are short phrases that interrupt anxious thoughts and replace them with more realistic ones. With enough practice, they become automatic.
 
@@ -215,7 +210,6 @@ Coping statements are short phrases that interrupt anxious thoughts and replace 
 *When feeling overwhelmed:*
 - "I can focus on what I'm doing even while feeling anxious. If I stay focused, the anxiety will reduce."
 - "I feel overwhelmed, but I'm not going to give in. I'll keep going and focus away from the problem."
-
 
 ---
 
@@ -245,13 +239,11 @@ Coping statements are short phrases that interrupt anxious thoughts and replace 
 
 ### Keys to Success
 
-
 - **Be patient.** Change takes time. CBT skills deepen with practice, not overnight.
 - **Take small, gradual steps.** Gradual, consistent progress is more sustainable than sudden effort.
 - **Recognise your improvements.** Even small ones. Give yourself credit.
 - **Setbacks are part of recovery.** They are not failure — they are information. Use them.
 - **The past does not equal the future.** Previous patterns can be changed with consistent practice.
-
 
 ---
 

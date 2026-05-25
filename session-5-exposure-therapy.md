@@ -22,7 +22,6 @@
 
 ### What is Exposure Therapy?
 
-
 Exposure therapy is the single most evidence-based technique for overcoming anxiety-driven avoidance. It works by doing the opposite of avoiding feared situations — deliberately entering them, staying long enough for anxiety to naturally subside, and learning through direct experience that:
 
 1. Anxiety, although uncomfortable, cannot harm or damage you
@@ -32,11 +31,9 @@ Over repeated exposures, the brain updates its threat assessment. The feared sit
 
 > ⚠️ ***Important:** This is not about going into genuinely dangerous situations or returning to places where you were harmed. It is about re-engaging with ordinary, everyday situations that you have become fearful of due to anxiety — such as shops, public transport, social events, or open spaces.*
 
-
 ---
 
 ### The Four Principles of Graded Exposure
-
 
 For exposure to work, it must meet four conditions:
 
@@ -52,11 +49,9 @@ A single exposure is rarely enough. Repeat the same level of exposure until your
 **4. Without safety behaviours**
 Safety behaviours (see below) must be dropped during exposure. Without doing so, you never learn that the situation is actually safe — the safety behaviour gets the credit, not your own coping ability.
 
-
 ---
 
 ### Safety Behaviours
-
 
 Safety behaviours are things people do to feel less anxious in feared situations. They provide short-term relief, which is why people continue using them. But they have two significant problems:
 
@@ -72,7 +67,6 @@ Safety behaviours are things people do to feel less anxious in feared situations
 | Social situations | Repeating a phrase in your head | *"I only managed because of the phrase"* |
 
 > 💡 *By continuing to rely on safety behaviours, you never have the opportunity to discover that you would have been fine without them.*
-
 
 ---
 
@@ -101,7 +95,6 @@ Safety behaviours are things people do to feel less anxious in feared situations
 
 ### Building an Anxiety Hierarchy
 
-
 Each feared situation needs to be broken down into graduated levels — from the least to the most anxiety-provoking. This gives you a ladder to climb, one rung at a time.
 
 **Example — fear of spiders:**
@@ -118,7 +111,6 @@ Each feared situation needs to be broken down into graduated levels — from the
 | 8 (hardest) | Holding a spider | 10 |
 
 Start at Level 1. Only move up when anxiety at the current level no longer exceeds 50% at the start of the exposure.
-
 
 ---
 

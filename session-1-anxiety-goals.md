@@ -26,7 +26,6 @@
 
 ### What is Anxiety?
 
-
 About one in six people consult their GP because they are feeling anxious. Anxiety is a normal response to both internal events (thoughts or feelings) and external events (situations or perceived threats).
 
 Anxiety becomes a problem when it:
@@ -45,11 +44,9 @@ Anxiety becomes a problem when it:
 - ✅ Anxiety **is** a necessary part of normal everyday life, common to every human being
 - ✅ Anxiety **is** something that can be managed and coped with rather than always being overwhelming
 
-
 ---
 
 ### The Fight or Flight Response
-
 
 When faced with a perceived threat, the **amygdala** — the brain's alarm system — triggers a release of adrenaline into the bloodstream, causing rapid physical changes to prepare the body to run or fight. This is an automatic survival mechanism humans have carried for thousands of years.
 
@@ -67,11 +64,9 @@ The problem occurs when this response is triggered when **no actual danger is pr
 
 > 💡 *All of these symptoms are your body doing exactly what it was designed to do. They are uncomfortable but not dangerous.*
 
-
 ---
 
 ### What is Depression?
-
 
 Depression is different from normal sadness. With depression, feelings of hopelessness, worthlessness or exhaustion don't just go away — they can last for months and make everyday life extremely difficult.
 
@@ -96,11 +91,9 @@ Depression is different from normal sadness. With depression, feelings of hopele
 
 > 💡 *Depression is an illness — not a choice, not a weakness, and not something you can simply "snap out of." It responds well to psychological therapies like CBT.*
 
-
 ---
 
 ### The 5 Areas Model
-
 
 All symptom types — thoughts, feelings, physical sensations, and behaviours — influence one another. A change in one area tends to affect the others. This is why targeting even one area can start to create positive change across all of them.
 
@@ -123,7 +116,6 @@ All symptom types — thoughts, feelings, physical sensations, and behaviours �
 | **Physical** | Sleeping more, reduced energy, less motivation |
 | **Feelings** | Sadness, guilt |
 | **Behaviour** | Do less; can't see the point in anything |
-
 
 ---
 
@@ -201,7 +193,6 @@ All symptom types — thoughts, feelings, physical sensations, and behaviours �
 
 ### Why Set Goals?
 
-
 Depression and anxiety throw us off course. Goals help because they:
 
 - Focus your attention on what is important to **you**
@@ -219,11 +210,9 @@ Before writing goals, spend a few minutes with these questions:
 - What would life be like if things were different?
 - What would you be able to do if things changed?
 
-
 ---
 
 ### SMART Goals
-
 
 Goals should be **SMART** to be effective:
 
@@ -236,7 +225,6 @@ Goals should be **SMART** to be effective:
 | **T** | Time-bound | When do you want to achieve it by? |
 
 Once you have a SMART goal, break it into small, manageable steps. Each step completed takes you closer to the overall goal.
-
 
 ---
 

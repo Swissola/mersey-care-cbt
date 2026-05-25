@@ -25,7 +25,6 @@
 
 ### Why Activity Matters
 
-
 When people feel depressed they often feel physically unwell, have negative thoughts, and experience a lack of energy and motivation. As a result, they do less. The trouble is, doing less makes people feel worse — creating a self-reinforcing cycle:
 
 ```text
@@ -40,11 +39,9 @@ A helpful way to think about energy when you are depressed is Spoon Theory. Imag
 
 This is why pacing matters. It is not laziness — it is managing a genuinely limited resource. The goal of behavioural activation is to gradually increase the number of spoons you start with, by rebuilding activity slowly and consistently.
 
-
 ---
 
 ### The Problem with Avoidance
-
 
 Avoidance is understandable — it requires little effort and the short-term relief is immediate. But in the long term, avoidance:
 
@@ -60,7 +57,6 @@ Avoidance is understandable — it requires little effort and the short-term rel
 | **Routine** | Cooking, housework, laundry, getting up and dressed, everyday hygiene |
 | **Pleasurable** | Going out with friends, walking, gardening, reading, listening to music |
 | **Necessary** | Attending appointments, food shopping, replying to messages or emails, paying bills |
-
 
 ---
 
@@ -120,7 +116,6 @@ Your ranking should also reflect your personal circumstances — your physical a
 
 ### Finding Your Values
 
-
 Values are the things that are truly important to you in life. They are not goals to be ticked off, and they are not a list of "shoulds" from other people. They come from your own sense of what enriches your life and gives you a sense of self-respect.
 
 Values are like compass directions — they give purpose and meaning, and help you find your way when depression has knocked you off course.
@@ -131,7 +126,6 @@ Values are like compass directions — they give purpose and meaning, and help y
 - **Skills** — What am I good at? What do I want to get better at?
 - **What matters** — What is important to me? Being a good parent? Earning a living? Faith? Something else?
 - **Legacy** — What do I want to be remembered for?
-
 
 ---
 
@@ -180,7 +174,6 @@ Values are like compass directions — they give purpose and meaning, and help y
 
 ### Why Relaxation Helps
 
-
 When tense, you experience uncomfortable physical symptoms — headaches, backaches, and so on. These physical sensations add to your mental worry. Relaxation works by:
 
 - Slowing down the body systems that speed up during anxiety
@@ -188,11 +181,9 @@ When tense, you experience uncomfortable physical symptoms — headaches, backac
 - Improving your capacity to cope with daily stresses
 - Improving quality of life over time
 
-
 ---
 
 ### Breathing Techniques
-
 
 **Test your breathing first:**
 
@@ -201,7 +192,6 @@ When tense, you experience uncomfortable physical symptoms — headaches, backac
 3. Breathe normally and notice which hand moves more
 
 If the hand on your **chest** moves more, you are not breathing diaphragmatically. Correct breathing has your stomach moving slightly more than your chest.
-
 
 #### Diaphragmatic Breathing
 
